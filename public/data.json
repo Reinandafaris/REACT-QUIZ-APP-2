@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Apa ibukota Indonesia?",
+    "answers": ["Jakarta", "Bandung", "Surabaya", "Medan"],
+    "correctAnswer": "Jakarta",
+    "score": 20
+  },
+  {
+    "question": "Berapa jumlah sisi pada segitiga?",
+    "answers": ["2", "3", "4", "5"],
+    "correctAnswer": "3",
+    "score": 20
+  },
+  {
+    "question": "Siapakah presiden pertama Indonesia?",
+    "answers": ["Soekarno", "Hatta", "Sjahrir", "Tan Malaka"],
+    "correctAnswer": "Soekarno",
+    "score": 20
+  },
+  {
+    "question": "Berapa jumlah provinsi di Indonesia?",
+    "answers": ["32", "33", "34", "35"],
+    "correctAnswer": "34",
+    "score": 20
+  },
+  {
+    "question": "Siapakah penemu lampu?",
+    "answers": [
+      "Thomas Alva Edison",
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei"
+    ],
+    "correctAnswer": "Thomas Alva Edison",
+    "score": 20
+  }
+]
